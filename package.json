@@ -1,0 +1,16 @@
+{
+  "name": "allure-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "allure": "^3.13.2",
+    "allure-jest": "^3.10.2",
+    "jest": "^30.4.2"
+  }
+}
